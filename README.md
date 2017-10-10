@@ -155,7 +155,7 @@ N/A
 29. Links to other publicly accessible locations of the data:
 N/A
 30. Recommended citation for the data:
-Mason, A. & Cain, J. (2017). NP_Opera_IRS_2014. [Data Compilation]. doi:10.5281/zenodo.303273
+Mason, A. & Cain, J. (2017). NP_Opera_IRS_2014. [Data Compilation]. https://doi.org/10.5281/zenodo.1008426
 31. Information about funding sources that supported the collection of the data:
 N/A
 
