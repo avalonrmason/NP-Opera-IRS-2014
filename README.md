@@ -58,7 +58,7 @@ The purpose of this script is to update a previously compiled list of Nonprofit 
   * North America
 # Methodological Information
 16. Method description, links or references to publications or other documentation containing experimental design or protocols used in data collection
-*	This data relies on the published IRS 990 data which is provided at "Exempt Organizations Business Master File Extract (EO BMF)"
+*	This data relies on the published IRS 990 data which is provided at "https://www.irs.gov/statistics/soi-tax-stats-annual-extract-of-tax-exempt-organization-financial-data"
 17. Any instrument-specific information needed to understand or interpret the data
 N/A
 18. Standards and calibration information, if appropriate
